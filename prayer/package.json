@@ -2,7 +2,7 @@
   "name": "prayer",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Mohassan863.github.io/prayer",
+  "homepage": "https://mohassan863.github.io/prayer/",
   "type": "module",
   "scripts": {
     "dev": "vite",
